@@ -22,7 +22,7 @@ the direction the team decides to go in, could determine if you are ready for Ti
 This project is designed to be worked on by a team rather than an individual
 Chingu. This means you and your team will need to thoroughly read and
 understand the requirements and specifications below, **_and_** define and
-manage your project following the _Agile Methodology_ defined in the **
+manage your project following the _Agile Methodology_ defined in the
 [Voyage Handbook](https://www.notion.so/Voyages-8d8e16a5f86e42a88d9ace16bc555f18#c6450284edde462f8b97580b002c836e).
 
 As you create this project make sure it meets all of the requirements, but once
