@@ -23,7 +23,7 @@ This project is designed to be worked on by a team rather than an individual
 Chingu. This means you and your team will need to thoroughly read and
 understand the requirements and specifications below, **_and_** define and
 manage your project following the _Agile Methodology_ defined in the
-[Voyage Handbook](https://www.notion.so/Voyages-8d8e16a5f86e42a88d9ace16bc555f18#c6450284edde462f8b97580b002c836e).
+[Voyage Handbook](https://chingucohorts.notion.site/Voyage-Guide-1e528dcbf1d241c9a93b4627f6f1c809).
 
 As you create this project make sure it meets all of the requirements, but once
 it reaches MVP start implementing the optional features or get creative and
